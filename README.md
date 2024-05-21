@@ -1,2 +1,5 @@
 # beyond-app
-Aplicativo em Vue desenvolvido com mentoria da Beyond 
+
+## Funcionalidades
+
+Lista de itens (alunos), com botões para editar, deletar e criar itens na lista
